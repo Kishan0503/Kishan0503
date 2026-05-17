@@ -72,7 +72,7 @@ A real-time voice assistant using FastAPI, WebSockets & NVIDIA NIM.
 
 ## 🌱 Looking For
 
-Remote opportunities, freelance projects & collaborations in **AI +
+best opportunities, Largescale projects & collaborations in **AI +
 Backend**.
 
 ------------------------------------------------------------------------
